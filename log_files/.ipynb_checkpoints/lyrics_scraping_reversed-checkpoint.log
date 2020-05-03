@@ -1,0 +1,8 @@
+2020-04-21 21:44:49,542 ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-21 21:44:49,543 ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-21 21:44:49,543 ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-21 21:44:49,543 ERROR Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-21 21:59:39,147 INFO Starting after Gipsy Kings
+2020-04-21 21:59:39,147 INFO 
+Retrieving lyrics for Zhane
+2020-04-21 21:59:40,325 WARNING No lyrics for Everything Happens For A Reason. Dropping
